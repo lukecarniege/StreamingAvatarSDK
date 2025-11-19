@@ -38,7 +38,8 @@
   "dependencies": {
     "livekit-client": "2.11.3",
     "protobufjs": "7.5.0",
-    "webrtc-issue-detector": "1.16.3"
+    "webrtc-issue-detector": "1.16.3",
+    "axios": "^1.6.0"
   },
   "files": [
     "lib/*"
